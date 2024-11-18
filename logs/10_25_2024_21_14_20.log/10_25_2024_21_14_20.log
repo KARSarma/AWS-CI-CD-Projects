@@ -1,12 +1,3 @@
-[ 2024-10-25 21:14:20,875 ] 26 root - INFO - Entered the data ingestion method or component
-[ 2024-10-25 21:14:20,881 ] 29 root - INFO - Read the dataset as dataframe
-[ 2024-10-25 21:14:20,884 ] 35 root - INFO - Train test split initiated
-[ 2024-10-25 21:14:20,888 ] 42 root - INFO - Inmgestion of the data iss completed
-[ 2024-10-25 21:14:20,890 ] 82 root - INFO - Read train and test data completed
-[ 2024-10-25 21:14:20,890 ] 84 root - INFO - Obtaining preprocessing object
-[ 2024-10-25 21:14:20,890 ] 58 root - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
-[ 2024-10-25 21:14:20,890 ] 59 root - INFO - Numerical columns: ['writing_score', 'reading_score']
-[ 2024-10-25 21:14:20,890 ] 97 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
-[ 2024-10-25 21:14:20,898 ] 109 root - INFO - Saved preprocessing object.
-[ 2024-10-25 21:14:20,899 ] 33 root - INFO - Split training and test input data
-[ 2024-10-25 21:14:50,119 ] 102 root - INFO - Best found model on both training and testing dataset
+version https://git-lfs.github.com/spec/v1
+oid sha256:fab92526ed341a569d40bbf8321565af99f406163c623e05cb2037b7df0db846
+size 1112

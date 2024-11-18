@@ -1,6 +1,3 @@
-[ 2024-11-08 22:05:06,804 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
- * Running on all addresses (0.0.0.0)
- * Running on http://127.0.0.1:5000
- * Running on http://10.110.7.36:5000
-[ 2024-11-08 22:05:06,804 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
-[ 2024-11-08 22:05:06,805 ] 97 werkzeug - INFO -  * Restarting with stat
+version https://git-lfs.github.com/spec/v1
+oid sha256:91f81b2368776abbeec5ca335b4e8b6f63cc765570854ecdd2f8210e95deaaef
+size 445
